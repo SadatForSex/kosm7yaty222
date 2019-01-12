@@ -1,4 +1,4 @@
-token= NTMzNDMzMTIyMDM4MjE4NzYz.DxrEBg.1N6NBw58VvonFAVhoEAQUQYV2Dg
+token= NTMzNDMzMTIyMDM4MjE4NzYz.DxrG2w.9A8fmXgO1ykL-Zlfs8TiHH1d9i0
 owner= 278515372020334592
 prefix= 2
 game= Type | 2help
