@@ -1,6 +1,6 @@
-token= NTAzMzE0MTQ4OTk4OTA1ODcx.Dq0rsg.s0V8vxayNsICkjJSEnDvfGfREU0
-owner= 195088897234042880 
-prefix= 1
-game= 1help | The Legend
+token= NTMzNDMzMTIyMDM4MjE4NzYz.DxrEBg.1N6NBw58VvonFAVhoEAQUQYV2Dg
+owner= 278515372020334592
+prefix= 2
+game= Type | 2help
 stayinchannel=true
 songinstatus=true
